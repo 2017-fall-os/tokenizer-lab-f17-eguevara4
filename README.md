@@ -55,6 +55,3 @@ address of an array containing:
 implementation of mytoc should only call functions written by you. In
 particular, calls to functions whose prototypes are in "string.h" such
 as "strtok()" are prohibited.
-
-
-
